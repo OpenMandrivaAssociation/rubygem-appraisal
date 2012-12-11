@@ -55,3 +55,13 @@ rm -rf %{buildroot}
 %files doc
 %doc %{ruby_gemdir}/doc/%{rbname}-%{version}
 
+
+
+%changelog
+* Sun Mar 13 2011 Per Øyvind Karlsen <peroyvind@mandriva.org> 0.1-1
++ Revision: 644376
+- imported package rubygem-appraisal
+
+
+* Sun Mar 13 2011 Per Øyvind Karlsen <peroyvind@mandriva.org> 0.1-1
+- Initial package
