@@ -5,7 +5,7 @@ Summary:	Find out what your Ruby gems are worth
 Name:		rubygem-%{rbname}
 
 Version:	0.1
-Release:	1
+Release:	2
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
 URL:		http://github.com/thoughtbot/appraisal
