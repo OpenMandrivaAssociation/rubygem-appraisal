@@ -8,7 +8,7 @@ Version:	0.1
 Release:	2
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
-URL:		http://github.com/thoughtbot/appraisal
+URL:		https://github.com/thoughtbot/appraisal
 Source0:	http://rubygems.org/gems/%{rbname}-%{version}.gem
 BuildRequires:	rubygems 
 BuildArch:	noarch
